@@ -10,6 +10,7 @@ The goal is to allow for a complete database sync (think copying your production
 Installation
 =======
 Add to your Gemfile
+
 	gem 'spree_database_sync', :git => 'git://github.com/GeekOnCoffee/yaml_db.git'
 	gem 'yaml_db', :git => 'git://github.com/GeekOnCoffee/yaml_db.git'
 
